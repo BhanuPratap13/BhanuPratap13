@@ -19,7 +19,8 @@ Always eager to learn, experiment, and push my skills further — whether it’s
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanu-pratap-571834370)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhanupratap.work01@gmail.com)  
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/bhanupratap23/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/bhanupratap01)
 ---
 
 ## 💻 Tech Stack:
