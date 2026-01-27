@@ -39,4 +39,16 @@ Always eager to learn, experiment, and push my skills further — whether it’s
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
 
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=BhanuPratap13&theme=default&hide_border=true&include_all_commits=false&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=BhanuPratap13&theme=default&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BhanuPratap13&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)  
