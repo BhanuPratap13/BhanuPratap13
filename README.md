@@ -1,6 +1,13 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="300" />
+</p>
 # 💫 About Me:
 Hi, I’m **Bhanu Pratap** 👋  
 💻 **Web Developer** | 📚 **DSA Enthusiast** | 🎯 **Tech Explorer**  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</p>
 
 I’m a passionate web developer and DSA problem solver who loves turning ideas into reality.  
 Always eager to learn, experiment, and push my skills further — whether it’s crafting smooth user experiences, writing clean & efficient code, or solving tricky algorithmic problems.  
