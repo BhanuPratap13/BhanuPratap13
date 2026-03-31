@@ -34,9 +34,12 @@ Always eager to learn, experiment, and push my skills further — whether it’s
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BhanuPratap13&theme=default&hide_border=true&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=BhanuPratap13&theme=default&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BhanuPratap13&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)  
+
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BhanuPratap13&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=BhanuPratap13&theme=tokyonight)
+
+![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BhanuPratap13&layout=compact&theme=tokyonight)
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
